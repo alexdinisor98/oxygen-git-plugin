@@ -7,7 +7,7 @@
     <key value="Push_to">
         <comment>Push to</comment>
         <val lang="en_US">Push to</val>
-        <val lang="de_DE">Push to</val>
+        <val lang="de_DE">Push an</val>
         <val lang="fr_FR">Push to</val>
         <val lang="ja_JP">Push to</val>
         <val lang="nl_NL">Push to</val>
@@ -15,7 +15,7 @@
     <key value="Pull_from">
         <comment>Pull from</comment>
         <val lang="en_US">Pull from</val>
-        <val lang="de_DE">Pull from</val>
+        <val lang="de_DE">Pull von</val>
         <val lang="fr_FR">Pull from</val>
         <val lang="ja_JP">Pull from</val>
         <val lang="nl_NL">Pull from</val>
@@ -127,7 +127,7 @@
     <key value="Previous_passphrase_invalid">
         <comment>Message shown when a previous SSH passphrase was invalid.</comment>
         <val lang="en_US">The previous passphrase is invalid.</val>
-        <val lang="de_DE">Der vorherige SSH-Passphrase ist ungültig.</val>
+        <val lang="de_DE">Die vorherige SSH-Passphrase ist ungültig.</val>
         <val lang="fr_FR">fr_FR_translation</val>
         <val lang="ja_JP">ja_JP_translation</val>
         <val lang="nl_NL">nl_NL_translation</val>
@@ -143,7 +143,7 @@
     <key value="Enter_ssh_passphrase">
         <comment>Message asking for the SSH passphrase.</comment>
         <val lang="en_US">Please enter your SSH passphrase</val>
-        <val lang="de_DE">Bitte gib deinen SSH-Passphrase ein</val>
+        <val lang="de_DE">Bitte geben Sie Ihre SSH-Passphrase ein</val>
         <val lang="fr_FR">fr_FR_translation</val>
         <val lang="ja_JP">ja_JP_translation</val>
         <val lang="nl_NL">nl_NL_translation</val>
@@ -271,7 +271,7 @@
     <key value="Commit_ComboBox_Display_Message">
         <comment>The massage displayed on the combo box containing the previouslt commited messages</comment>
         <val lang="en_US">Choose a previously used comment</val>
-        <val lang="de_DE">Wähle eine vorherige Commit-Nachricht</val>
+        <val lang="de_DE">Eine vorherige Commit-Nachricht wählen</val>
         <val lang="fr_FR">fr_FR_translation</val>
         <val lang="ja_JP">ja_JP_translation</val>
         <val lang="nl_NL">nl_NL_translation</val>
